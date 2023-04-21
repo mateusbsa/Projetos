@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "765659658025",
+    "firebase_url": "https://bonito-leva-default-rtdb.firebaseio.com",
+    "project_id": "bonito-leva",
+    "storage_bucket": "bonito-leva.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:765659658025:android:d6d2f4e8ba2a2ae465e938",
+        "android_client_info": {
+          "package_name": "com.bonito"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "765659658025-ecefk7km6p5b9cffcrsfla4h987jnf4j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCf6HThNIwUfSv1ZwXE1DV1Q6q3MkhEF7M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "765659658025-ecefk7km6p5b9cffcrsfla4h987jnf4j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

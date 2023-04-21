@@ -1,0 +1,27 @@
+npm install @react-navigation/native
+
+yarn add react-native-reanimated react-native-gesture-handler react-native-screens react-native-safe-area-context @react-native-community/masked-view
+
+yarn add @react-navigation/drawer
+
+yarn add @react-navigation/stack
+
+yarn add @react-navigation/bottom-tabs
+
+yarn add styled-components
+
+yarn add react-native-maps
+
+yarn add react-native-vector-icons
+
+yarn add @react-native-community/geolocation
+
+yarn add react-native-google-places-autocomplete
+
+yarn add react-native-maps-directions
+
+yarn add react-native-geocoding
+
+yarn add @react-native-community/async-storage
+
+react-native link @react-native-community/async-storage
